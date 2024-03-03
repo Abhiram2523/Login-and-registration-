@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
  <%
@@ -23,7 +23,7 @@
         <p>We're delighted to have you on our platform. 🌟</p>
         <h3>Explore, learn, and connect with our vibrant community! 🚀</h3>
         <p>Feel free to stay as long as you like, and when you're ready,</p> 
-        you can <a href="logout.jsp">LOGOUT</a> securely.
+        you can <a href="index.html">LOGOUT</a> securely.
     </div>
 
     <%
